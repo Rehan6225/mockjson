@@ -1,14 +1,11 @@
-[
-  {
-    "code": 13,
-    "value": "Kashmiri"
-  },
-  {
-    "code": 6,
+{
+  "6": {
     "value": "Urdu"
   },
-  {
-    "code": 25,
+  "13": {
+    "value": "Kashmiri"
+  },
+  "25": {
     "value": "Nepali"
   }
-]
+}
