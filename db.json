@@ -1,9 +1,18 @@
 {
   "posts": [
+    
     {
-      "id": 1,
-      "title": "hello"
-    }
+    "code": 13,
+    "value": "Kashmiri"
+  },
+  {
+    "code": 6,
+    "value": "Urdu"
+  },
+  {
+    "code": 25,
+    "value": "Nepali"
+  }
   ],
   "profile": {
     "name": "typicode"
