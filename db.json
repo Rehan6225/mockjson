@@ -1,11 +1,11 @@
 {
-  "6": {
-    "value": "Urdu"
-  },
-  "13": {
-    "value": "Kashmiri"
-  },
-  "25": {
-    "value": "Nepali"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
