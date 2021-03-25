@@ -1,6 +1,13 @@
 {
   "posts": [
-    
+    {
+    "code": 5,
+    "value": "English"
+  },
+    {
+    "code": 7,
+    "value": "Hindi"
+  },
     {
     "code": 13,
     "value": "Kashmiri"
